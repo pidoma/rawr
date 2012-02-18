@@ -3,7 +3,7 @@
 }
 
 body {
-  background: black;
+  background: #cff;
 }
 
 header {
@@ -46,7 +46,7 @@ a:visited {
 
 nav {
   float: right;
-  background: #fff;
+  background: white;
   padding: 0 0.7em;
   white-space: nowrap;
 }
