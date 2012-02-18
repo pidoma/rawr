@@ -102,13 +102,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  annotate
-  factory_girl_rails
-  faker
+  annotate (= 2.4.0)
+  factory_girl_rails (= 1.0)
+  faker (= 0.3.1)
   gravatar_image_tag
   pg
   rails (= 3.0.11)
-  rspec-rails
-  spork
-  webrat
+  rspec-rails (= 2.6.1)
+  spork (= 0.9.0.rc8)
+  webrat (= 0.7.1)
   will_paginate
