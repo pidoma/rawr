@@ -12,14 +12,14 @@ header {
 
 header img {
   padding: 1em;
-  background: #6a0000;
+  background: #fff;
 }
 
 section {
   margin-top: 1em;
   font-size: 120%;
   padding: 20px;
-  background: #6a0000;
+  background: #fff;
 }
 
 section h1 {
@@ -46,7 +46,7 @@ a:visited {
 
 nav {
   float: right;
-  background: #6a0000;
+  background: #fff;
   padding: 0 0.7em;
   white-space: nowrap;
 }
